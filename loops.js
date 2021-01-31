@@ -65,7 +65,7 @@ function doWhileLoop(num) {
     i = i + 1
     return i
   }
-//}
+//} commented this out because opener after doWhileLoop should end at very bottom of code. 
 
 do {
   console.log('I run once regardless.')
